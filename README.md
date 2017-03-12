@@ -5,8 +5,8 @@
 Checkout the repository, install the dependencies, then start gulp with the following command:
 
 ```
-	> git clone git@github.com:lupena/React-Redux-Simple-Starter.git <Your-Project-Name>
-	> cd <Your-Project-Name>
-	> npm install
-	> npm start
+	git clone https://github.com/lupena/React-Redux-Simple-Starter.git <Your-Project-Name>
+	cd <Your-Project-Name>
+	npm install
+	npm start
 ```

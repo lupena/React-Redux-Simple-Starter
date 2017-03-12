@@ -1,0 +1,8 @@
+{
+  "extends": "ideologic",
+  "globals": {
+    "window": true,
+    "document": true
+  }
+
+}
